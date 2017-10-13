@@ -1,3 +1,5 @@
+https://codeshare.io/aYby4L
+
 """
 For this week's challenge
 Write a function that finds the sum of all prime factors of a given number (n)
